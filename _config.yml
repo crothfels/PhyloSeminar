@@ -11,6 +11,7 @@ author: IB 290
 navbar-links:
   This Year: "/years/2020/2020"
   Previous Years:
+      - 2017: "/years/2017/2017"
       - 2019: "/years/2019/2019"
   Contributing: "git_workflow"
   # Bibliography: "bibliography"
