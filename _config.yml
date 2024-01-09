@@ -4,7 +4,7 @@
 title: "Phylogenetics Seminar"
 
 # Your name to show in the footer
-author: C.Rothfels
+author: "C.Rothfels"
 
 # --- List of links in the navigation bar --- #
 
@@ -13,6 +13,7 @@ navbar-links:
   Previous Years:
       - 2017: "/years/2017/2017"
       - 2019: "/years/2019/2019"
+      - 2020: "/years/2020/2020"
   Contributing: "git_workflow"
   # Bibliography: "bibliography"
   Useful Stuff: "useful"
@@ -21,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/onag_big1.jpg"
+avatar: "/assets/img/phyloDeathStar_1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,8 +37,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mrmay@berkeley.edu"
-  github: mikeryanmay/IB290
+  email: "carl.rothfels@usu.edu"
+  github: crothfels/PhyloSeminar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -159,7 +160,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Los_Angeles"
+timezone: "America/Denver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
