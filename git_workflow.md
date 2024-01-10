@@ -16,6 +16,6 @@ Generally speaking, once git is installed (git comes with macs automatically so 
 4. Push your changes to the remote repository.
     - `cd <your repository directory>`
     - `git add .` to stage your edits.
-    - `git commit -m "including our papers"` to commit your edits to your local repository./
+    - `git commit -m "including our papers"` to commit your edits to your local repository.
     - `git pull` to synchronize your local repository with the remote.
     - `git push` to synchronize the remote repository with your local repository.
